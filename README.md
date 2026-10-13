@@ -112,8 +112,7 @@ $$
 y:
 
 $$
-P(X=k)
-=
+P(X=k)=
 \frac{
 \binom{K}{k}
 \binom{N-K}{n-k}
@@ -131,8 +130,7 @@ Se seleccionan 5 proveedores **sin reemplazo** para una auditoría.
 La probabilidad de que exactamente 2 de los seleccionados tengan antecedentes de retrasos es:
 
 $$
-P(X=2)
-=
+P(X=2)=
 \frac{
 \binom{6}{2}
 \binom{14}{3}
@@ -158,8 +156,7 @@ $$
 entonces:
 
 $$
-P(X=k)
-=
+P(X=k)=
 \frac{e^{-\lambda}\lambda^k}{k!}
 $$
 
@@ -181,8 +178,7 @@ $$
 y:
 
 $$
-P(X=2)
-=
+P(X=2)=
 \frac{e^{-4}4^2}{2!}
 $$
 
@@ -237,8 +233,7 @@ $$
 por lo que:
 
 $$
-P(X\leq3)
-=
+P(X\leq3)=
 P(X=0)+P(X=1)+P(X=2)+P(X=3)
 $$
 
@@ -259,8 +254,7 @@ $$
 En muchos casos resulta conveniente utilizar el complemento:
 
 $$
-P(X\geq3)
-=
+P(X\geq3)=
 1-P(X\leq2)
 $$
 
